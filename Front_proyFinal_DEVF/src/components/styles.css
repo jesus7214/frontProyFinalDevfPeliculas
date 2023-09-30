@@ -1,0 +1,54 @@
+.contenedor img {
+  border-radius: 10px;
+  width: 400px;
+  height: 300px;
+  margin-bottom: 30px;
+box-shadow: rgb(13, 14, 12) 5px 6px 6px;
+}
+.contenedor img:hover {
+  transform: scale(1.03);
+  cursor: pointer;
+}
+.contenedor {
+  height:500px;
+  background-image: url(https://images.pexels.com/photos/6468238/pexels-photo-6468238.jpeg?auto=compress&cs=tinysrgb&w=1600);
+}
+
+.contenedor h2 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.contenedor {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.info {
+  margin-top: 30px;
+  margin-right: 80px;
+}
+  
+  .botones button {
+    margin: 15px;
+    margin-top: 40px;
+    background-color: rgb(149, 211, 194);
+    border-radius: 10px;
+  }
+  .botones button:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+    background-color: rgb(166, 168, 169);
+  }
+  .texto{
+    font-size: 16px;
+    font-weight: bold;
+    text-align: justify;
+    width: 700px;
+  }
+
+  .nav-link:hover{
+    background-color: rgb(153, 178, 178);
+    border-radius: 10px;
+  }
