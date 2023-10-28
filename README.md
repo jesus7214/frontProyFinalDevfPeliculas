@@ -1,0 +1,1 @@
+Página web interactiva que permite a los usuarios seleccionar y obtener información detallada sobre películas. Se usa HTML, CSS y JavaScript para la experiencia del usuario, y MongoDB en el backend para gestionar los datos de las películas.
